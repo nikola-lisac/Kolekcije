@@ -1,0 +1,6 @@
+nikola,1,5
+nikola,2,5
+nikola,1,5
+nikola,1,5
+Jaskio,1,5
+Jaskio,2,4
